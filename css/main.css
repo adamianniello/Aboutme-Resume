@@ -1,0 +1,53 @@
+body{
+		background-color: gray;
+		color:white;
+		border:1px solid black;
+		margin:50px;
+		padding:20px;
+
+
+}
+
+h1 {
+	font-style: italic;
+	text-align: center;
+	margin: 10px;
+
+
+	
+}
+
+nav {
+	text-align: center;
+	
+
+}
+
+a {
+	color:green;
+
+}
+
+h2{
+	font-family: helvetica;
+	
+}
+
+h3{
+
+}
+
+p {
+	font-family: serif;
+}
+
+img { 
+
+		display: inline-block;
+
+}
+
+footer {
+	text-align: center;
+
+}
